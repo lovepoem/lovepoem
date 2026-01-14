@@ -1,4 +1,4 @@
 ### Hi there 👋
-<a href="http://wangxin.io">
+<a target="_blank" href="http://wangxin.io">
   my site
 </a>
